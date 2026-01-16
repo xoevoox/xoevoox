@@ -6,14 +6,11 @@ I use this GitHub to hold myself accountable as I build, break, and learn. Wheth
 
 <p align="center">
   <a href="https://news.ycombinator.com/user?id=Peacefulz">
-    <img src="https://img.shields.io/hackernews/user-karma/Peacefulz" alt="Hacker News Karma"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/hackernews/user-karma/Peacefulz" alt="Hacker News Karma"/></a>&nbsp;
   <a href="https://keybase.io/Peacefulz">
-    <img src="https://img.shields.io/keybase/pgp/Peacefulz?style=social" alt="Keybase PGP" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/keybase/pgp/Peacefulz?style=social" alt="Keybase PGP" /></a>&nbsp;
   <a href="https://infosec.exchange/@Peacefulz">
-    <img src="https://img.shields.io/mastodon/follow/112209485584413625?domain=infosec.exchange&style=social" alt="Mastodon Follow" />
-  </a>
+    <img src="https://img.shields.io/mastodon/follow/112209485584413625?domain=infosec.exchange&style=social" alt="Mastodon Follow" /></a>
 </p>
 
 ---
