@@ -1,4 +1,4 @@
-## <p align="center"><img src="https://cdn3.emoji.gg/emojis/451077-github.png" width="48" align="left"><img src="https://visitorbadge.vercel.app//api/badge/f5cdac86-d6fa-4744-b5aa-4c1c7fb7332e?style=plastic&color=1576d2&labelColor=000000" align="right" /> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=1576D2&width=435&lines=Welcome+to+my+Github!;I%27m+Anthony+Dowdy."/> </p>
+## <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=1576D2&width=435&lines=Welcome+to+my+Github!;I%27m+Anthony+Dowdy." /></p>
 
 I am a lifelong technologist and Web 1.0 veteran currently executing my "Second Act" in tech. By day, I’m a Parts Technician; by night, I am a privacy advocate and open-source enthusiast exploring the depths of Linux, self-hosting, and cybersecurity. 
 
@@ -12,6 +12,7 @@ I use this GitHub to hold myself accountable as I build, break, and learn. Wheth
   <a href="https://infosec.exchange/@Peacefulz">
     <img src="https://img.shields.io/mastodon/follow/112209485584413625?domain=infosec.exchange&style=social" alt="Mastodon Follow" /></a>
 </p>
+<p align="center"><img src="https://visitorbadge.vercel.app//api/badge/f5cdac86-d6fa-4744-b5aa-4c1c7fb7332e?style=plastic&color=1576d2&labelColor=000000"></p>
 
 ---
 
