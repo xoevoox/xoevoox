@@ -18,7 +18,7 @@ I use this GitHub to hold myself accountable as I build, break, and learn. Wheth
 
 ---
 
-### <p align="center"><img src="https://cdn3.emoji.gg/emojis/93448-pc.png" width="24">&nbsp; <u>Technologies & Interests</u> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFmeDF6cjcwZTR5angydGZoemgzMWM3aTI2emhpdmtuMzJwMHg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tZyxxR4lUIRnTgIzl9/giphy.gif" align="right" height="350"></p>
+### <p align="center"><img src="https://cdn3.emoji.gg/emojis/93448-pc.png" width="24">&nbsp; <u>Technologies & Interests</u></p>
 
 <table align="center">
   <tr>
