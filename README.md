@@ -48,8 +48,8 @@ I use this GitHub to hold myself accountable as I build, break, and learn. Wheth
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Retro_Dev-D32F2F?style=for-the-badge&logo=nintendo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rev_Engineering-000000?style=for-the-badge&logo=ghidra&logoColor=red" />
+      <img src="https://img.shields.io/badge/GameShark_Coding-D32F2F?style=for-the-badge&logo=nintendo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=ghidra&logoColor=red" />
       <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/Homelab-A42E2B?style=for-the-badge&logo=raspberrypi&logoColor=white" />
       <img src="https://img.shields.io/badge/CTF-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
